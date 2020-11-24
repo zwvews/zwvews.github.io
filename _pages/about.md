@@ -1,7 +1,6 @@
-
 ---
 permalink: /
-title: "About me"
+title: "Wei Zhu's Homepage, University of Rochester (UR)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
