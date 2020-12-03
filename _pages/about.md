@@ -31,7 +31,7 @@ last update: Oct 2020
    
 ### Journal Papers
   1. F. Nie, **W. Zhu** and X. Li, "Structured Graph Optimization for Unsupervised Feature Selection," TKDE 2020. [paper](https://ieeexplore.ieee.org/abstract/document/8815854) [feature selection]
-  2. F. Nie, **W. Zhu** and X. Li, "Unsupervised Large Graph Embedding Based on Balanced and　Hierarchical K-means," TKDE 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9109708) [clustering], [metric learning]
+  2. F. Nie, **W. Zhu** and X. Li, "Unsupervised Large Graph Embedding Based on Balanced and Hierarchical K-means," TKDE 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9109708) [clustering], [metric learning]
   3. F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2019. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314304) [SVM]
 
 
