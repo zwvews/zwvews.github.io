@@ -12,14 +12,14 @@ Hi, I am Wei Zhu, a 3-rd year Ph. D. student from the [department of computer sc
 
 last update: Oct 2020
 
-## Selected Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
+## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
 ### Preprint Papers
   1. **W. Zhu**, H. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization", Under review. [paper]() [debias and fairness], [adversarial leanring], [representation learning]
   2. **W. Zhu**, D. Song, Y. Chen, B. Zong, W. Chen, H. Chen, and J. Luo, "A Federated Exemplar-based Deep Neural Network for Anomaly Detection in Multivariate Time Series data", Under review. [paper]() [federated learning], [multivariate time series]
   3. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Under review. [paper]() [few-shto leanring], [metric learning]
-  4. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439)
-  5. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701)
+  4. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439) [metric learning], [representation learning]
+  5. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
 ### Conference Papers
   1. **W. Zhu**, W. Li, H. Liao, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] 
