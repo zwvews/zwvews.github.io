@@ -74,12 +74,12 @@ analytics:
 author:
   name             : "Wei Zhu"
   avatar           : "profile.png"
-  bio              : "Representation Learning, Few-shot Learning, Federated Learning"
+  bio              : "3rd-year Ph.D. student from the University of Rochester"
   location         : "Rochester, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en"
-  email            :
+  email            : # zwvews@gmail.com wzhu15@ur.rochester.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : # https://www.linkedin.com/in/wei-zhu-2b768515a/
   orcid            : 
   pinterest        :
   soundcloud       :
