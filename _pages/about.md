@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 3-rd year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and Prof. Xuelong Li. I am interested in representation learning, federated learning, few-shot learning and their applications in healthcare data, natural images, multivaraite time series data, and medical images. 
+Hi, I am Wei Zhu, a 3-rd year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, federated learning, few-shot learning and their applications in healthcare data, natural images, multivaraite time series data, and medical images. 
 
 last update: Oct 2020
 
@@ -41,7 +41,7 @@ last update: Oct 2020
     * Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
   * M.S. in Computer Science
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
-    * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and Prof. Xuelong Li
+    * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
   * B.S. in Software Engineering
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
 
