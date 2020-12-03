@@ -13,10 +13,12 @@ Hi, I am Wei Zhu, a 3-rd year Ph. D. student from the [department of computer sc
 last update: Oct 2020
 
 ## Selected Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
+
 ### Preprint Papers
   1. **W. Zhu**, H. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization", Under review. [paper]() [debias and fairness], [adversarial leanring], [representation learning]
   2. **W. Zhu**, D. Song, Y. Chen, B. Zong, W. Chen, H. Chen, and J. Luo, "A Federated Exemplar-based Deep Neural Network for Anomaly Detection in Multivariate Time Series data", Under review. [paper]() [federated learning], [multivariate time series]
   3. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Under review. [paper]() [few-shto leanring], [metric learning]
+   
 ### Conference Papers
   1. **W. Zhu**, W. Li, H. Liao, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper]() [few-shot learning], [contrastive learning], [metric learning] 
   2. **W. Zhu**, F. Shi and J. Luo, "Modeling Heterogeneity in Feature Selection for MCI Classification", ISBI 2020. [paper]() [feature selection], [clustering]
@@ -24,12 +26,12 @@ last update: Oct 2020
   4. **W. Zhu,** F. Nie and X. Li, "Fast Spectral Clustering with Efficient Large Graph Embedding," ICASSP 2017. [paper]() [clustering], [metric learing]
   5. F. Nie, **W. Zhu** and X. Li, "Unsupervised Large Graph Embedding," AAAI 2017. [paper]() [metric learning]
   6. F. Nie, **W. Zhu** and X. Li, "Unsupervised Feature Selection with Structured Graph Optimization," AAAI 2016, 1302-1308. [paper]() [feature selection]
+   
 ### Journal Papers
   1. F. Nie, **W. Zhu** and X. Li, "Structured Graph Optimization for Unsupervised Feature Selection," TKDE 2020. [paper]() [feature selection]
   2. F. Nie, **W. Zhu** and X. Li, "Unsupervised Large Graph Embedding Based on Balanced and　Hierarchical K-means," TKDE 2020. [paper]() [clustering], [metric learning]
   3. F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2019. [paper]() [SVM]
 
-------
 
 ## Educations
   * Ph.D. in Computer Science 
@@ -40,7 +42,8 @@ last update: Oct 2020
     * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and Prof. Xuelong Li
   * B.S. in Software Engineering
     * School of Software and Microelectronics
-------
+
+
 ## Experiences
   * Reserach assistant at the University of Rochester, NY (2018-now)
   * Summer Intern at NEC American Lab, Princeton, NJ (2020 05 - 2020 08)
