@@ -36,19 +36,19 @@ last update: Oct 2020
 
 
 ## Educations
-  * Ph.D. in Computer Science 
+  * Ph.D. in Computer Science (Sep. 2018 - May. 2023 expected)
     * Department of Computer Science, University of Rochester, NY
     * Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
-  * M.S. in Computer Science
+  * M.S. in Computer Science (Sep. 2015 - May. 2018)
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
     * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
-  * B.S. in Software Engineering
+  * B.S. in Software Engineering (Sep. 2011 - Jul. 2015)
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
 
 
-## Experiences
+## Research Experiences
   * Reserach assistant at the University of Rochester, NY (2018 - now)
-  * Summer Intern at NEC American Lab, Princeton, NJ (2020 05 - 2020 08)
-  * Summer Intern at Siemens Healthineer, Princeton, NJ (2019 05 - 2019 08)
-  * Summer Intern at United-imaging Inc. Shanghai, China (2018 05 - 2018 08)
+  * Summer Intern at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
+  * Summer Intern at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
+  * Summer Intern at United-imaging Inc. Shanghai, China (May. 2018 - Aug. 2018)
   * Research assistant at the Northwestern Polytechnical University, Xi'an, China (2015 - 2018)
