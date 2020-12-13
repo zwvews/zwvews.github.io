@@ -20,7 +20,6 @@ last update: Dec. 2020
   3. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
 ### Conference Papers
-  1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," accepted by Pattern Recognition, 2021. [paper]() [few-shto leanring], [metric learning]
   1. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] 
   2. **W. Zhu**, F. Shi and J. Luo, "Modeling Heterogeneity in Feature Selection for MCI Classification", ISBI 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098725) [feature selection], [clustering]
   3. W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
@@ -29,6 +28,7 @@ last update: Dec. 2020
   6. F. Nie, **W. Zhu** and X. Li, "Unsupervised Feature Selection with Structured Graph Optimization," AAAI 2016, 1302-1308. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12180/11737) [feature selection]
    
 ### Journal Papers
+  1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," accepted by Pattern Recognition, 2021. [paper]() [few-shto leanring], [metric learning]
   1. F. Nie, **W. Zhu** and X. Li, "Structured Graph Optimization for Unsupervised Feature Selection," TKDE 2020. [paper](https://ieeexplore.ieee.org/abstract/document/8815854) [feature selection]
   2. F. Nie, **W. Zhu** and X. Li, "Unsupervised Large Graph Embedding Based on Balanced and Hierarchical K-means," TKDE 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9109708) [clustering], [metric learning]
   3. F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2019. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314304) [SVM]
