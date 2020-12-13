@@ -21,7 +21,7 @@ last update: Dec. 2020
    
 ### Conference Papers
   1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," accepted by Pattern Recognition, 2021. [paper]() [few-shto leanring], [metric learning]
-  1. **W. Zhu**, W. Li, H. Liao, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] 
+  1. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] 
   2. **W. Zhu**, F. Shi and J. Luo, "Modeling Heterogeneity in Feature Selection for MCI Classification", ISBI 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098725) [feature selection], [clustering]
   3. W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
   4. **W. Zhu,** F. Nie and X. Li, "Fast Spectral Clustering with Efficient Large Graph Embedding," ICASSP 2017. [paper](https://ieeexplore.ieee.org/abstract/document/7952605) [clustering], [metric learing]
