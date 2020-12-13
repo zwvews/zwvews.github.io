@@ -16,7 +16,7 @@ last update: Dec. 2020
 
 ### Preprint Papers
   1. **W. Zhu**, D. Song, Y. Chen, B. Zong, W. Chen, H. Chen, and J. Luo, "A Federated Exemplar-based Deep Neural Network for Anomaly Detection in Multivariate Time Series data". [paper]() [federated learning], [multivariate time series]
-  2. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric". [paper]() [few-shto leanring], [metric learning]
+  2. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition. [paper]() [few-shto leanring], [metric learning]
   3. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439) [metric learning], [representation learning]
   4. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
