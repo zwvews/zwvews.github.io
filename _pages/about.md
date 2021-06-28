@@ -19,7 +19,7 @@ last update: Dec. 2020
   2. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
 ### Conference Papers
-  1. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] 
+  1. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] **MICCAI 2020 NIH AWARDS**
   2. **W. Zhu**, F. Shi and J. Luo, "Modeling Heterogeneity in Feature Selection for MCI Classification", ISBI 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098725) [feature selection], [clustering]
   3. W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
   4. **W. Zhu,** F. Nie and X. Li, "Fast Spectral Clustering with Efficient Large Graph Embedding," ICASSP 2017. [paper](https://ieeexplore.ieee.org/abstract/document/7952605) [clustering], [metric learing]
