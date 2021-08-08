@@ -20,7 +20,7 @@ last update: Aug. 2021
   3. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
 ### Conference Papers
-  1. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper available soon]() [debiasing/fairness], [mutual information estimation] 
+  1. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper&code available soon]() [debiasing/fairness], [mutual information estimation] 
   2. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning] **MICCAI 2020 NIH AWARDS**
   3. **W. Zhu**, F. Shi and J. Luo, "Modeling Heterogeneity in Feature Selection for MCI Classification", ISBI 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098725) [feature selection], [clustering]
   4. W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
