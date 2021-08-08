@@ -50,6 +50,7 @@ last update: Aug. 2021
 
 ## Research Experiences
   * Work with Prof. Jiebo Luo as a reserach assistant at the University of Rochester, NY (2018 - now)
+  * Work with Dr. Adam P. Harrison and Dr. Shun Miao as a summer intern at PAII, Bethesda, MD. (May. 2021 - Aug. 2021)
   * Work with Prof. Dongjin Song and Dr. Yuncong Chen as a summer Intern at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
   * Work with Dr. Zhoubing Xu as a summer Intern at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
   * Work with Dr. Feng Shi as a summer Intern at United-imaging Inc. Shanghai, China (May. 2018 - Aug. 2018)
