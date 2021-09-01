@@ -10,6 +10,8 @@ redirect_from:
 
 Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, federated learning, few-shot learning, fairness/debiasing and their applications in healthcare data, natural images, multivaraite time series data, and medical images. 
 
+I am actively looking for summer internship.
+
 last update: Aug. 2021
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
@@ -50,7 +52,7 @@ last update: Aug. 2021
 
 ## Research Experiences
   * Work with Prof. Jiebo Luo as a reserach assistant at the University of Rochester, NY (2018 - now)
-  * Work with Dr. Adam P. Harrison and Dr. Shun Miao as a summer intern at PAII, Bethesda, MD. (May. 2021 - Aug. 2021)
+  * Work with Dr. Adam P. Harrison, Dr. Shun Miao, and Dr. Bowen Li as a summer intern at PAII, Bethesda, MD. (May. 2021 - Aug. 2021)
   * Work with Prof. Dongjin Song and Dr. Yuncong Chen as a summer Intern at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
   * Work with Dr. Zhoubing Xu as a summer Intern at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
   * Work with Dr. Feng Shi as a summer Intern at United-imaging Inc. Shanghai, China (May. 2018 - Aug. 2018)
