@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, few-shot learning and their applications in natural images, molecular graph, multivaraite time series data, and medical images. 
 
-I am actively looking for summer internship. [contact me](zwvews@gmail.com)
+I am actively looking for summer internship.
 
 last update: Aug. 2021
 
