@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 3-rd year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, federated learning, few-shot learning, fairness/debiasing and their applications in healthcare data, natural images, multivaraite time series data, and medical images. 
+Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, federated learning, few-shot learning, fairness/debiasing and their applications in healthcare data, natural images, multivaraite time series data, and medical images. 
 
 last update: Aug. 2021
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
 ### Preprint Papers
-  1. **W. Zhu**, D. Song, Y. Chen, W. Chen, B. Zong, T. Mizoguchi, C. Lumezanu, H. Chen and J. Luo, "Deep Federated Anomaly Detection for Multivariate Time Series Data". [paper]() [federated learning], [anomaly detection]
+  1. **W. Zhu**, D. Song, Y. Chen, W. Chen, B. Zong, T. Mizoguchi, C. Lumezanu, H. Chen and J. Luo, "Deep Federated Anomaly Detection for Multivariate Time Series Data". [paper available soon]() [federated learning], [anomaly detection]
   2. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439) [metric learning], [representation learning]
   3. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
