@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, few-shot learning and their applications in natural images, molecular graph, multivaraite time series data, and medical images. 
+Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
-I am actively looking for summer internship in 2022.
+**I am actively looking for summer internship in 2022.**
 
-last update: Aug. 2021
+last update: Sep. 2021
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
 ### Preprint Papers
-  1. **W. Zhu**, D. Song, Y. Chen, W. Chen, B. Zong, T. Mizoguchi, C. Lumezanu, H. Chen and J. Luo, "Deep Federated Anomaly Detection for Multivariate Time Series Data". [paper available soon]() [federated learning], [anomaly detection]
-  2. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439) [metric learning], [representation learning]
-  3. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
+  1. **W. Zhu**, D. Song, Y. Chen, W. Chen, B. Zong, T. Mizoguchi, C. Lumezanu, H. Chen, and J. Luo, "Deep Federated Anomaly Detection for Multivariate Time Series Data". [paper available soon]() [federated learning], [anomaly detection]
+  2.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258) [federated learning], [graph neural network]
+  3. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439) [metric learning], [representation learning]
+  4. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
    
 ### Conference Papers
   1. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper&code available soon]() [debiasing/fairness], [mutual information estimation] 
