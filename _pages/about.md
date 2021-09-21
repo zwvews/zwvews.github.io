@@ -17,7 +17,7 @@ last update: Sep. 2021
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
 ### Preprint Papers
-  1. **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis". [paper](https://arxiv.org/pdf/2109.07509.pdf) [Learning with Noisy Labels]
+  1. **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis". [paper](https://arxiv.org/pdf/2109.07509.pdf) [noisy labels]
   2.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258) [federated learning], [graph neural network]
   3. H. Zheng, K. Wu, J. Park, **W. Zhu**, and J. Luo, "Personalized Fashion Recommendation from Personal Social Media Data: An Item-to-Set Metric Learning Approach". [paper](https://arxiv.org/abs/2005.12439) [metric learning], [representation learning]
   4. Y. Feng, F. Peng, X. Zhang, **W. Zhu**, S. Zhang, Z. Li, T. Duerig, S. Chang, and J. Luo, "Unifying Specialist Image Embedding into Universal Image Embedding". [paper](https://arxiv.org/abs/2003.03701) [representation learning]
