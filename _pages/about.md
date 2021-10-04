@@ -53,8 +53,14 @@ last update: Sep. 2021
 
 ## Research Experiences
   * Work with Prof. Jiebo Luo as a reserach assistant at the University of Rochester, NY (2018 - now)
+    * Representation Learning, Federated Learning, and Domain Generalization/Debiasing  
   * Work with Dr. Adam P. Harrison, Dr. Shun Miao, and Dr. Bowen Li as a summer intern at PAII, Bethesda, MD. (May. 2021 - Aug. 2021)
+    * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
   * Work with Prof. Dongjin Song and Dr. Yuncong Chen as a summer Intern at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
+    * Federated Anomaly Detection  
   * Work with Dr. Zhoubing Xu as a summer Intern at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
+    * Self-supervised learning with CT images 
   * Work with Dr. Feng Shi as a summer Intern at United-imaging Inc. Shanghai, China (May. 2018 - Aug. 2018)
+    * MCI Diagnosis 
   * Work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an, China (2015 - 2018)
+    * SVM, Spectral-based feature selection and clustering 
