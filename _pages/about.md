@@ -52,17 +52,17 @@ last update: Sep. 2021
 
 
 ## Research Experiences
-  * Work with Prof. Jiebo Luo as a reserach assistant at the University of Rochester, NY (2018 - now)
+  * Reserach assistant: work with Prof. Jiebo Luo at the University of Rochester, NY (2018 - now)
     * Representation Learning, Federated Learning, and Domain Generalization/Debiasing  
-  * Work with Prof. Andrew White and Prof. Jiebo Luo as research assistant at the University of Rochester, NY (Jan. 2021 - now)
+  * Research assistant: work with Prof. Andrew White and Prof. Jiebo Luo at the University of Rochester, NY (Jan. 2021 - now)
     * Federated Learning, Graph Neural Network, Molecular Property Prediction 
-  * Work with Dr. Adam P. Harrison and Dr. Shun Miao as a summer intern at PAII, Bethesda, MD (May. 2021 - Aug. 2021)
+  * Summer intern: work with Dr. Adam P. Harrison and Dr. Shun Miao at PAII, Bethesda, MD (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
-  * Work with Prof. Dongjin Song and Dr. Yuncong Chen as a summer Intern at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
+  * Summer intern: work with Prof. Dongjin Song and Dr. Yuncong Chen at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
     * Federated Anomaly Detection  
-  * Work with Dr. Zhoubing Xu as a summer Intern at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
+  * Summer intern: work with Dr. Zhoubing Xu at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
     * Self-supervised learning with CT images 
-  * Work with Dr. Feng Shi as a summer Intern at United-imaging Inc. Shanghai, China (May. 2018 - Aug. 2018)
+  * Summer intern: work with Dr. Feng Shi at United-imaging Inc. Shanghai, China (May. 2018 - Aug. 2018)
     * MCI Diagnosis 
-  * Work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an, China (2015 - 2018)
+  * Research assistant: work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an, China (2015 - 2018)
     * SVM, Spectral-based feature selection and clustering 
