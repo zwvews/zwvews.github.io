@@ -12,7 +12,6 @@ Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer sc
 
 Email: <zwvews@gmail.com>
 
-**I am looking for summer internship on deep learning in 2022. Please contact me for possible opportunites.**
 
 last update: Sep. 2021
 
