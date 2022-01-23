@@ -52,11 +52,11 @@ last update: Jan. 2022
 
 ## Research Experiences
 1. Research assistant
-  * Reserach assistant: work with Prof. Jiebo Luo at the University of Rochester, NY (2018 - now)
+  * Reserach assistant @UR: work with Prof. Jiebo Luo at the University of Rochester, NY (2018 - now)
     * Representation Learning, Federated Learning, and Domain Generalization/Debiasing  
-  * Research assistant: work with Prof. Andrew White and Prof. Jiebo Luo at the University of Rochester, NY (Jan. 2021 - now)
+  * Research assistant @UR: work with Prof. Andrew White and Prof. Jiebo Luo at the University of Rochester, NY (Jan. 2021 - now)
     * Federated Learning, Graph Neural Network, Molecular Property Prediction 
-  * Research assistant: work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an, China (2015 - 2018)
+  * Research assistant @NWPU: work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an, China (2015 - 2018)
     * SVM, Spectral-based feature selection and clustering 
 2. Summer intern
   * Summer intern @PingAn: work with Dr. Adam P. Harrison and Dr. Shun Miao at PAII, Bethesda, MD (May. 2021 - Aug. 2021)
