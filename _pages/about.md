@@ -58,6 +58,7 @@ last update: Jan. 2022
     * Federated Learning, Graph Neural Network, Molecular Property Prediction 
   * Research assistant @NWPU: work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an (2015 - 2018)
     * SVM, Spectral-based feature selection and clustering 
+    * 
 ### Summer intern
   * Summer intern @PingAn: work with Dr. Adam P. Harrison and Dr. Shun Miao at PAII, Bethesda, MD (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
