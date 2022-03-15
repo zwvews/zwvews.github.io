@@ -69,3 +69,5 @@ last update: Jan. 2022
   * Summer intern @United-Imaging: work with Dr. Feng Shi at United-imaging Inc., Shanghai, China (May. 2018 - Aug. 2018)
     * MCI Diagnosis 
 
+### Professonal Activities
+  * Reviewer for CVPR, AAAI, ECCV, ICPR, IEEE TNNLS, IEEE TII, IEEE TSP, International Journal of Intelligent Systems, WSDM workshop,  
