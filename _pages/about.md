@@ -57,21 +57,21 @@ last update: Mar. 2022
 
 ## Research Experiences
 ### Research assistant
-  * Reserach assistant @UR: work with Prof. Jiebo Luo at the University of Rochester, NY (2018 - now)
+  * Reserach assistant @UR: work with Prof. Jiebo Luo (2018 - now)
     * Representation Learning, Federated Learning, and Domain Generalization/Debiasing  
-  * Research assistant @UR: work with Prof. Andrew White at the University of Rochester, NY (Jan. 2021 - now)
+  * Research assistant @UR: work with Prof. Andrew White (Jan. 2021 - now)
     * Federated Learning, Graph Neural Network, Molecular Property Prediction 
-  * Research assistant @NWPU: work with Prof. Feiping Nie at the Northwestern Polytechnical University, Xi'an (2015 - 2018)
+  * Research assistant @NWPU: work with Prof. Feiping Nie (2015 - 2018)
     * SVM, Spectral-based feature selection and clustering 
     
 ### Summer intern
-  * Summer intern @PingAn: work with Dr. Adam P. Harrison and Dr. Shun Miao at PAII, Bethesda, MD (May. 2021 - Aug. 2021)
+  * Summer intern @PAII: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
-  * Summer intern @NEC: work with Prof. Dongjin Song and Dr. Yuncong Chen at NEC American Lab, Princeton, NJ (May. 2020 - Aug. 2020)
+  * Summer intern @NEC: work with Prof. Dongjin Song and Dr. Yuncong Chen at NEC American Lab (May. 2020 - Aug. 2020)
     * Federated Anomaly Detection  
-  * Summer intern @Siemens: work with Dr. Zhoubing Xu at Siemens Healthineer, Princeton, NJ (May. 2019 - Aug. 2019)
+  * Summer intern @Siemens: work with Dr. Zhoubing Xu at Siemens Healthineer (May. 2019 - Aug. 2019)
     * Self-supervised learning with CT images 
-  * Summer intern @United-Imaging: work with Dr. Feng Shi at United-imaging Inc., Shanghai, China (May. 2018 - Aug. 2018)
+  * Summer intern @United-Imaging: work with Dr. Feng Shi at United-imaging Inc. (May. 2018 - Aug. 2018)
     * MCI Diagnosis 
 
 ### Professonal Activities
