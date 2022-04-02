@@ -67,11 +67,11 @@ last update: Mar. 2022
 ### Summer intern
   * Summer intern @PAII: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
-  * Summer intern @NEC: work with Prof. Dongjin Song and Dr. Yuncong Chen at NEC American Lab (May. 2020 - Aug. 2020)
+  * Summer intern @NEC: work with Prof. Dongjin Song and Dr. Yuncong Chen (May. 2020 - Aug. 2020)
     * Federated Anomaly Detection  
-  * Summer intern @Siemens: work with Dr. Zhoubing Xu at Siemens Healthineer (May. 2019 - Aug. 2019)
+  * Summer intern @Siemens: work with Dr. Zhoubing Xu (May. 2019 - Aug. 2019)
     * Self-supervised learning with CT images 
-  * Summer intern @United-Imaging: work with Dr. Feng Shi at United-imaging Inc. (May. 2018 - Aug. 2018)
+  * Summer intern @United-Imaging: work with Dr. Feng Shi (May. 2018 - Aug. 2018)
     * MCI Diagnosis 
 
 ### Professonal Activities
