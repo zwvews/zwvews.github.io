@@ -75,4 +75,4 @@ last update: Mar. 2022
     * MCI Diagnosis 
 
 ### Professonal Activities
-  * Reviewer for CVPR, AAAI, ECCV, ICPR, IEEE TNNLS, IEEE TII, IEEE TSP, International Journal of Intelligent Systems, IEEE/CAA JAS WSDM workshop,  
+  * Reviewer for CVPR, AAAI, ECCV, ICPR, IEEE TNNLS, IEEE TII, IEEE TSP, IEEE/CAA JAS, International Journal of Intelligent Systems, WSDM workshop,  
