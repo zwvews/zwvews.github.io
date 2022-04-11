@@ -17,13 +17,13 @@ last update: Mar. 2022
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
-### Federated Learning
-  1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
-   
-### Domain Generation/Fairness/Debiasing
+### Domain Generalization/Fairness/Debiasing
   1. **W. Zhu**, L. Lu, J. Xiao, M. Han, J. Luo, and A. P. Harrison, "Localized Adversarial Domain Generalization," CVPR 2022. [paper](), [code]() [domain generalization], [adversarial learning] 
   2. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper](https://arxiv.org/pdf/2108.05449.pdf), [code](https://github.com/zwvews/csad) [debiasing/fairness], [mutual information estimation] 
   
+### Federated Learning
+  1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
+
 ### Few-Shot Learning
   1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002), [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
   2. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning]
