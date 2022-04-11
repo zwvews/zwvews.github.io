@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
+Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, UR. Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 and 2015 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
 Email: <zwvews@gmail.com>
 
@@ -21,7 +21,7 @@ last update: Mar. 2022
   1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258) [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
    
 ### Domain Generation/Fairness/Debiasing
-  1. **W. Zhu**, L. Lu, J. Xiao, M. Han, J. Luo, and A. P. Harrison, "Localized Adversarial Domain Generalization," CVPR 2022. [paper](), [code available soon]() [domain generalization], [adversarial learning] 
+  1. **W. Zhu**, L. Lu, J. Xiao, M. Han, J. Luo, and A. P. Harrison, "Localized Adversarial Domain Generalization," CVPR 2022. [paper](), [code]() [domain generalization], [adversarial learning] 
   2. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper](https://arxiv.org/pdf/2108.05449.pdf), [code](https://github.com/zwvews/csad) [debiasing/fairness], [mutual information estimation] 
   
 ### Few-Shot Learning
@@ -46,24 +46,19 @@ last update: Mar. 2022
 
 ## Educations
   * Ph.D. in Computer Science (Sep. 2018 - May. 2023 expected)
-    * Department of Computer Science, University of Rochester, NY
-    * Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
+    * Department of Computer Science, University of Rochester, Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
+      * Representation Learning, Federated Learning, and Domain Generalization/Debiasing 
+    * I also work with [Prof. Andrew D. White](https://thewhitelab.org/), Department of Chemical Engineering, University of Rochester
+      * Federated Learning, Graph Neural Network, and Molecular Property Prediction 
   * M.S. in Computer Science (Sep. 2015 - May. 2018)
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
-    * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
+      * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
+      * SVM, Spectral-based feature selection and clustering 
   * B.S. in Software Engineering (Sep. 2011 - Jul. 2015)
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
 
 
-## Research Experiences
-### Research assistant
-  * Reserach assistant @UR: work with Prof. Jiebo Luo (2018 - now)
-    * Representation Learning, Federated Learning, and Domain Generalization/Debiasing  
-  * Research assistant @UR: work with Prof. Andrew White (Jan. 2021 - now)
-    * Federated Learning, Graph Neural Network, Molecular Property Prediction 
-  * Research assistant @NWPU: work with Prof. Feiping Nie (2015 - 2018)
-    * SVM, Spectral-based feature selection and clustering 
-    
+## Research Experiences   
 ### Summer intern
   * Summer intern @PAII: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
@@ -75,4 +70,4 @@ last update: Mar. 2022
     * MCI Diagnosis 
 
 ### Professonal Activities
-  * Reviewer for CVPR, AAAI, ECCV, ICPR, IEEE TNNLS, IEEE TII, IEEE TSP, IEEE/CAA JAS, International Journal of Intelligent Systems, WSDM workshop,  
+  * Reviewer for CVPR, AAAI, ECCV, ICPR, IEEE TNNLS, IEEE TII, IEEE TSP, IEEE/CAA JAS, International Journal of Intelligent Systems, WSDM workshop  
