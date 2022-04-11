@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/) Rochester, NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, UR. Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
+Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, UR. Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
 Email: <zwvews@gmail.com>
 
@@ -18,14 +18,14 @@ last update: Mar. 2022
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
 ### Federated Learning
-  1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258) [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
+  1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
    
 ### Domain Generation/Fairness/Debiasing
   1. **W. Zhu**, L. Lu, J. Xiao, M. Han, J. Luo, and A. P. Harrison, "Localized Adversarial Domain Generalization," CVPR 2022. [paper](), [code]() [domain generalization], [adversarial learning] 
   2. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper](https://arxiv.org/pdf/2108.05449.pdf), [code](https://github.com/zwvews/csad) [debiasing/fairness], [mutual information estimation] 
   
 ### Few-Shot Learning
-  1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002) [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
+  1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002), [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
   2. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning]
   
 ### Spectral-based Methods
