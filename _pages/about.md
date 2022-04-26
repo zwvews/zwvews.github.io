@@ -41,8 +41,6 @@ last update: Mar. 2022
   2.  W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
   3.  F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314304) [SVM]
 
-   
-
 
 ## Educations
   * Ph.D. in Computer Science (Sep. 2018 - May. 2023 expected)
