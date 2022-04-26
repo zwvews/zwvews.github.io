@@ -22,10 +22,10 @@ last update: Mar. 2022
   2. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper](https://arxiv.org/pdf/2108.05449.pdf), [code](https://github.com/zwvews/csad) [debiasing/fairness], [mutual information estimation] 
   
 ### Federated Learning
-  1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting". [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
+  1.  **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting," Patterns 2022. [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
 
 ### Few-Shot Learning
-  1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002), [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
+  1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002), [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
   2. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning]
   
 ### Spectral-based Methods
@@ -48,7 +48,7 @@ last update: Mar. 2022
   * Ph.D. in Computer Science (Sep. 2018 - May. 2023 expected)
     * Department of Computer Science, University of Rochester, Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
       * Representation Learning, Federated Learning, and Domain Generalization/Debiasing 
-    * I also work with [Prof. Andrew D. White](https://thewhitelab.org/), Department of Chemical Engineering, University of Rochester
+    * I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, University of Rochester
       * Federated Learning, Graph Neural Network, and Molecular Property Prediction 
   * M.S. in Computer Science (Sep. 2015 - May. 2018)
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
