@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, UR. Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
+Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, UR. I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
+
+<!---
+Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en).
+--->
 
 Email: <zwvews@gmail.com>
 
@@ -48,23 +52,24 @@ last update: Mar. 2022
       * Representation Learning, Federated Learning, and Domain Generalization/Debiasing 
     * I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, University of Rochester
       * Federated Learning, Graph Neural Network, and Molecular Property Prediction 
+<!---
   * M.S. in Computer Science (Sep. 2015 - May. 2018)
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
       * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
       * SVM, Spectral-based feature selection and clustering 
   * B.S. in Software Engineering (Sep. 2011 - Jul. 2015)
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
-
+--->
 
 ## Research Experiences   
 ### Summer intern
-  * Summer intern @PAII: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
+  * Summer intern @PAII, MD: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
-  * Summer intern @NEC: work with Prof. Dongjin Song and Dr. Yuncong Chen (May. 2020 - Aug. 2020)
+  * Summer intern @NEC, NJ: work with Prof. Dongjin Song and Dr. Yuncong Chen (May. 2020 - Aug. 2020)
     * Federated Anomaly Detection  
-  * Summer intern @Siemens: work with Dr. Zhoubing Xu (May. 2019 - Aug. 2019)
+  * Summer intern @Siemens, NJ: work with Dr. Zhoubing Xu (May. 2019 - Aug. 2019)
     * Self-supervised learning with CT images 
-  * Summer intern @United-Imaging: work with Dr. Feng Shi (May. 2018 - Aug. 2018)
+  * Summer intern @United-Imaging, Shanghai: work with Dr. Feng Shi (May. 2018 - Aug. 2018)
     * MCI Diagnosis 
 
 ### Professonal Activities
