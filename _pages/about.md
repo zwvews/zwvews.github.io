@@ -52,6 +52,7 @@ last update: Mar. 2022
       * Representation Learning, Federated Learning, and Domain Generalization/Debiasing 
     * I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, University of Rochester
       * Federated Learning, Graph Neural Network, and Molecular Property Prediction 
+    
 <!---
   * M.S. in Computer Science (Sep. 2015 - May. 2018)
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
