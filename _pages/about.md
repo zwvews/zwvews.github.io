@@ -26,12 +26,12 @@ last update: Mar. 2022
   2. **W. Zhu**, Z. Zheng, H. Liao, W. Li, and J. Luo, "Learning Bias-Invariant Representation by Cross-Sample Mutual Information Minimization," ICCV 2021. [paper](https://arxiv.org/pdf/2108.05449.pdf), [code](https://github.com/zwvews/csad) [debiasing/fairness], [mutual information estimation] 
   
 ### Federated Learning
-  1. **W. Zhu** and J. Luo, "Federated Medical Image Analysis with Virtual Sample Synthesis," MICCAI 2022. [paper](), [code]() [federated learning], [graph neural network]
+  1. **W. Zhu** and J. Luo, "Federated Medical Image Analysis with Virtual Sample Synthesis," MICCAI 2022 (early accept). [paper](), [code]() [federated learning], [medical image analysis], [adversarial training]
   2. **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting," Patterns 2022. [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
 
 ### Few-Shot Learning
   1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002), [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
-  2. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020. [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning]
+  2. **W. Zhu**, H. Liao, W. Li, W. Li, and J. Luo, "Alleviating the Incompatibility between Cross Entropy Loss and Episode Training for Few-shot Skin Disease Classification," MICCAI 2020 (early accept). [paper](https://arxiv.org/abs/2004.09694) [few-shot learning], [contrastive learning], [metric learning]
   
 ### Spectral-based Methods
   1. **W. Zhu**, F. Shi and J. Luo, "Modeling Heterogeneity in Feature Selection for MCI Classification", ISBI 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098725) [feature selection], [clustering]
@@ -42,7 +42,7 @@ last update: Mar. 2022
   6. F. Nie, **W. Zhu** and X. Li, "Unsupervised Feature Selection with Structured Graph Optimization," AAAI 2016, 1302-1308. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12180/11737) [feature selection]
 
 ### Others
-  1.  **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis", ICPR 2022. [paper](https://arxiv.org/pdf/2109.07509.pdf) [noisy labels]
+  1.  **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis", ICPR 2022 (early accept). [paper](https://arxiv.org/pdf/2109.07509.pdf) [noisy labels]
   2.  W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
   3.  F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314304) [SVM]
 
