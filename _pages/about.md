@@ -17,7 +17,7 @@ Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical
 Email: <zwvews@gmail.com>
 
 
-last update: March. 2023
+last update: Mar. 2023
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
