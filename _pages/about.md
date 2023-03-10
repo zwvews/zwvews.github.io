@@ -57,8 +57,6 @@ last update: March. 2023
   * Ph.D. in Computer Science (Sep. 2018 - May. 2023 expected)
     * Department of Computer Science, University of Rochester, Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
       * Representation Learning, Federated Learning, and Domain Generalization/Debiasing 
-    * I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, University of Rochester
-      * Federated Learning, Graph Neural Network, and Molecular Property Prediction 
     
 <!---
   * M.S. in Computer Science (Sep. 2015 - May. 2018)
