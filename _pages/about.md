@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a 4-th year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also work with [Prof. Andrew D. White](https://thewhitelab.org/) from the department of chemical engineering, UR. I am interested in representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
+Hi, I am Wei Zhu, a final year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I am interested in parameter effcient tuning, representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
 <!---
 Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en).
@@ -17,9 +17,13 @@ Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical
 Email: <zwvews@gmail.com>
 
 
-last update: May. 2022
+last update: March. 2023
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
+
+### Parameter Efficient Tuning
+  1. **W. Zhu**, R. Zhou, Y. Yao, C. Timothy, R. Jain, and J. Luo, "SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification", MIDL, 2023.
+  2. **W. Zhu** and J. Luo, "Zero-Shot Human Object Interaction Recognition with HOI-aware Prompt Tuning", under review, 2023.
 
 ### Domain Generalization/Fairness/Debiasing
   1. **W. Zhu**, L. Lu, J. Xiao, M. Han, J. Luo, and A. P. Harrison, "Localized Adversarial Domain Generalization," CVPR 2022. [paper](), [code]() [domain generalization], [adversarial learning] 
@@ -28,6 +32,7 @@ last update: May. 2022
 ### Federated Learning
   1. **W. Zhu** and J. Luo, "Federated Medical Image Analysis with Virtual Sample Synthesis," MICCAI 2022 (early accept). [paper](), [code]() [federated learning], [medical image analysis], [adversarial training]
   2. **W. Zhu**, Andrew White, and J. Luo, "Federated Learning of Molecular Properties in a Heterogeneous Setting," Patterns 2022. [paper](https://arxiv.org/abs/2109.07258), [code](https://github.com/ur-whitelab/fedchem) [federated learning], [graph neural network] 
+  3. **W. Zhu**, D. Song, Y. Chen, W. Cheng, B. Zong, T. Mizoguchi, C. Lumezanu, H. Chen, and J. Luo, "Federated Anomaly Detection]{Deep Federated Anomaly Detection for Multivariate Time Series Data", IEEE Big Data, 2022.
 
 ### Few-Shot Learning
   1. **W. Zhu**, W. Li, H. Liao, and J. Luo, "Temperature Network for Few-shot Learning with Distribution-aware Large-margin Metric," Pattern Recognition 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320306002), [code](https://github.com/zwvews/TemperatureNetwork) [few-shto leanring], [metric learning]
@@ -42,9 +47,10 @@ last update: May. 2022
   6. F. Nie, **W. Zhu** and X. Li, "Unsupervised Feature Selection with Structured Graph Optimization," AAAI 2016, 1302-1308. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12180/11737) [feature selection]
 
 ### Others
-  1.  **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis", ICPR 2022 (early accept). [paper](https://arxiv.org/pdf/2109.07509.pdf) [noisy labels]
-  2.  W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
-  3.  F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314304) [SVM]
+  1.  A. Kolokythas, **W. Zhu**, and J. Luo, "Use of Artificial Intelligence in the Characterization of Oral Mucosal Lesions", Journal of Oral and Maxillofacial Surgery, 2022.
+  2.  **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis", ICPR 2022 (early accept). [paper](https://arxiv.org/pdf/2109.07509.pdf) [noisy labels]
+  3.  W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
+  4.  F. Nie, **W. Zhu** and X. Li, "Decision Tree SVM: An Extension of Linear SVM for Non-linear Classification," Neurocomputing 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314304) [SVM]
 
 
 ## Educations
@@ -65,6 +71,8 @@ last update: May. 2022
 
 ## Research Experiences   
 ### Summer intern
+  * Summer intern @Amazon, CA: work with Dr. Haofu Liao (May. 2022 - Aug. 2022)
+    * HOI detection
   * Summer intern @PAII, MD: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
     * Domain Generalization for Steatosis Diagnosis based on Ultrasound Images   
   * Summer intern @NEC, NJ: work with Prof. Dongjin Song and Dr. Yuncong Chen (May. 2020 - Aug. 2020)
