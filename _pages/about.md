@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu, a final year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I am interested in parameter effcient tuning, representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
+Hi, I am Wei Zhu, a final year Ph. D. student from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). I am interested in parameter effcient tuning, representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
-<!---
-Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en).
---->
 
 Email: <zwvews@gmail.com>
 
@@ -61,15 +58,12 @@ last update: Mar. 2023
   * Ph.D. in Computer Science (Sep. 2018 - May. 2023 expected)
     * Department of Computer Science, University of Rochester, Advisor: [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
       * Representation Learning, Federated Learning, and Domain Generalization/Debiasing 
-    
-<!---
   * M.S. in Computer Science (Sep. 2015 - May. 2018)
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
       * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
       * SVM, Spectral-based feature selection and clustering 
   * B.S. in Software Engineering (Sep. 2011 - Jul. 2015)
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
---->
 
 ## Research Experiences   
 ### Summer intern
