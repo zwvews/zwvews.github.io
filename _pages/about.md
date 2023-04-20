@@ -23,7 +23,10 @@ last update: Mar. 2023
 
 ### Parameter Efficient Tuning
   1. **W. Zhu**, R. Zhou, Y. Yao, C. Timothy, R. Jain, and J. Luo, "SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification", MIDL, 2023.
-  2. **W. Zhu** and J. Luo, "Zero-Shot Human Object Interaction Recognition with HOI-aware Prompt Tuning", under review, 2023.
+  
+<!---
+2. **W. Zhu** and J. Luo, "Zero-Shot Human Object Interaction Recognition with HOI-aware Prompt Tuning", under review, 2023.
+--->
 
 ### Domain Generalization/Fairness/Debiasing
   1. **W. Zhu**, L. Lu, J. Xiao, M. Han, J. Luo, and A. P. Harrison, "Localized Adversarial Domain Generalization," CVPR 2022. [paper](), [code]() [domain generalization], [adversarial learning] 
