@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu. I am now a applied scientist at Amazon. I received my Ph. D. degree from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
+Hi, I am Wei Zhu. I am now an applied scientist at Amazon. I received my Ph. D. degree from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
 
 I am interested in parameter effcient tuning, representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
@@ -68,8 +68,7 @@ last update: Mar. 2023
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
 
 ## Experiences
-### Applied Scientist @Amazon, CA (Apr. 2023 - present)
-### Summer intern
+  * Applied Scientist @Amazon, CA (Apr. 2023 - present)
   * Summer intern @Amazon, CA: work with Dr. Haofu Liao (May. 2022 - Aug. 2022)
     * HOI detection
   * Summer intern @PAII, MD: work with Dr. Adam P. Harrison (May. 2021 - Aug. 2021)
