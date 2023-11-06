@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Wei Zhu's Homepage"
 title_separator          : "-"
 name                     : &name "Wei Zhu"
-description              : &description "final year Ph. D. Student at the University of Rochester"
+description              : &description "Applied Scientist at AWS"
 url                      : https://zwvews.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zwvews/zwvews.github.io"
@@ -74,7 +74,7 @@ analytics:
 author:
   name             : "Wei Zhu"
   avatar           : "zhuweiphoto.jpg"
-  bio              : "4th-year Ph.D. student from the University of Rochester"
+  bio              : "Applied Scientist at AWS"
   location         : "Rochester, NY"
   employer         :
   pubmed           : 
