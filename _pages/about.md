@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Zhu. I am now an applied scientist at Amazon. I received my Ph. D. degree from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR), NY. My advisor is [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
+Hi, I am Wei Zhu. I am now an applied scientist at Amazon. I received my Ph. D. degree from the [department of computer science](https://www.cs.rochester.edu/), [University or Rochester](https://rochester.edu/)(UR) advisored by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) and my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
 
 I am interested in parameter effcient tuning, representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
 
@@ -49,7 +49,7 @@ last update: Mar. 2023
   6. F. Nie, **W. Zhu** and X. Li, "Unsupervised Feature Selection with Structured Graph Optimization," AAAI 2016, 1302-1308. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12180/11737) [feature selection]
 
 ### Others
-  1. **W. Zhu**, W. Li, R. Dorsey, and J. Luo, "Unsupervised Anomaly Detection by Densely Contrastive Learning for Time Series Data", under review, 2023
+  1. **W. Zhu**, W. Li, R. Dorsey, and J. Luo, "Unsupervised Anomaly Detection by Densely Contrastive Learning for Time Series Data", Neural Network, 2023.
   2.  A. Kolokythas, **W. Zhu**, and J. Luo, "Use of Artificial Intelligence in the Characterization of Oral Mucosal Lesions", Journal of Oral and Maxillofacial Surgery, 2022.
   3.  **W. Zhu**, Z. Zheng, H. Zheng, H. Lyu, and J. Luo, "Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis", ICPR 2022 (early accept). [paper](https://arxiv.org/pdf/2109.07509.pdf) [noisy labels]
   4.  W. Li, **W. Zhu**, R. Dorsey, J. Luo, "Predicting Parkinson's Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data", ICDM 2020. [paper](https://arxiv.org/abs/2009.11999) [multivarite time series]
@@ -64,7 +64,7 @@ last update: Mar. 2023
     * School of Computer Science, Northwestern Polytechnical University, Xi'an
       * Advisor, [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)
       * SVM, Spectral-based feature selection and clustering 
-  * B.S. in Software Engineering (Sep. 2011 - Jul. 2015)
+  * B.E. in Software Engineering (Sep. 2011 - Jul. 2015)
     * School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an
 
 ## Experiences
