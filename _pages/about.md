@@ -10,8 +10,7 @@ redirect_from:
 
 Hi, I am Wei Zhu and am now an applied scientist at Amazon. I received my Ph. D. degree from the [University or Rochester](https://rochester.edu/)(UR) advised by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) and my M.S. and B.E. degree from Northwestern Polytechnical University, Xi'an China in 2018 and 2015 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
 
-I am interested in prompt engineering, parameter efficient tuning, representation learning, fairness/debiasing/domain generalization, federated learning, graph neural network, few-shot learning and their applications in natural images, molecular graph, multivariate time series data, and medical images. 
-
+I am currently working on reinforcement learning, preference tuning, parameter efficient tuning, and representation learning for LLMs.
 
 Email: <zwvews@gmail.com>
 
